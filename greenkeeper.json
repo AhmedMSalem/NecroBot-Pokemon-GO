@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "PoGo.NecroBot.GUI.Electron/package.json"
+      ]
+    }
+  }
+}
